@@ -224,7 +224,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/iP_Update">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/Viku_Flix_Backup">[ Viku Flix ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/Viku_Flix_Backup">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/Viku_Flix_Backup">[ Viku Flix ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
