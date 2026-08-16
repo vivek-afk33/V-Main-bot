@@ -1413,7 +1413,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         InlineKeyboardButton('🖥️ Watch ', url=dreamx_stream)
                     ],
                     [
-                        InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=UPDATE_CHNL_LNK)
+                        InlineKeyboardButton('📌 ᴊᴏɪɴ Backup ᴄʜᴀɴɴᴇʟ 📌', url=UPDATE_CHNL_LNK)
                     ]
                 ])
             )
